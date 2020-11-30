@@ -1,1 +1,130 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T09:58:05.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.2" etag="8Pa6pb1ySSPkZYJ9Znlu" type="github"><diagram id="MCoECfVCoOh9HcjXjtBz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-30T10:02:25.442Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="KOgm1gn_BK0KHnl63WmP" version="13.10.2" type="github">
+  <diagram id="MCoECfVCoOh9HcjXjtBz" name="Page-1">
+    <mxGraphModel dx="1384" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U4ozedeX-4zujju5WsK9-7" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="U4ozedeX-4zujju5WsK9-1" target="U4ozedeX-4zujju5WsK9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-8" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="U4ozedeX-4zujju5WsK9-1" target="U4ozedeX-4zujju5WsK9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-1" value="ты очнулся в тюрьме.&lt;br&gt;1. бежать&lt;br&gt;2. наблюдать" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-15" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="U4ozedeX-4zujju5WsK9-2" target="U4ozedeX-4zujju5WsK9-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-19" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="U4ozedeX-4zujju5WsK9-2" target="U4ozedeX-4zujju5WsK9-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-2" value="2. ты решил бежать тихо." style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-9" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="U4ozedeX-4zujju5WsK9-3" target="U4ozedeX-4zujju5WsK9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-10" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="U4ozedeX-4zujju5WsK9-3" target="U4ozedeX-4zujju5WsK9-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="410" />
+              <mxPoint x="320" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-3" value="1. ты решил бежать&lt;br&gt;&lt;br&gt;1. вырубить дрона&amp;nbsp;&lt;br&gt;2. или сбежать тихо" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-23" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="U4ozedeX-4zujju5WsK9-4" target="U4ozedeX-4zujju5WsK9-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-4" value="открыть панель было нелегко, ты видишь провода&lt;br&gt;1. кусай синий&lt;br&gt;2. рвани все вместе" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-26" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="U4ozedeX-4zujju5WsK9-5" target="U4ozedeX-4zujju5WsK9-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="400" />
+              <mxPoint x="380" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U4ozedeX-4zujju5WsK9-5" target="U4ozedeX-4zujju5WsK9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-5" value="2. ты решил пока понаблюдать. ты заметил панель на стене. &lt;br&gt;1. открыть&lt;br&gt;2. ударить по ней, вдруг откроется" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="220" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-27" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="U4ozedeX-4zujju5WsK9-6" target="U4ozedeX-4zujju5WsK9-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-31" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="U4ozedeX-4zujju5WsK9-6" target="U4ozedeX-4zujju5WsK9-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-6" value="1.2.&lt;br&gt;Ого! эта штука бьется током!&lt;br&gt;&lt;br&gt;1. выбраться через окно,&lt;br&gt;2. дождаться, когда поведут в камеру" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="450" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="U4ozedeX-4zujju5WsK9-14" target="U4ozedeX-4zujju5WsK9-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="10" y="560" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-29" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="U4ozedeX-4zujju5WsK9-17" target="U4ozedeX-4zujju5WsK9-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-32" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="U4ozedeX-4zujju5WsK9-21" target="U4ozedeX-4zujju5WsK9-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="440.33333333333326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-21" value="сигнализация, ну конечно&lt;br&gt;1. притвориться раненым&lt;br&gt;2. подстеречь охрану и сбежать" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="545" y="360" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-38" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="U4ozedeX-4zujju5WsK9-28" target="U4ozedeX-4zujju5WsK9-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-28" value="вырубить охранника и бежать вниз по лестнице" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="650" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U4ozedeX-4zujju5WsK9-33" target="U4ozedeX-4zujju5WsK9-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-41" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="U4ozedeX-4zujju5WsK9-33" target="U4ozedeX-4zujju5WsK9-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-33" value="через окно!&lt;br&gt;&lt;br&gt;1. а вот и крыша. а тут и вертолет. Прыгай в него?&lt;br&gt;2. спуститься вниз по сточной трубе" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="770" y="450" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U4ozedeX-4zujju5WsK9-37" target="U4ozedeX-4zujju5WsK9-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U4ozedeX-4zujju5WsK9-37" target="U4ozedeX-4zujju5WsK9-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-37" value="ты видишь, как кто-то спасается бегством. помочь?&lt;br&gt;1. конечно!&lt;br&gt;2. оставить его&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="670" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-40" value="ты спасся! Улетай скорее" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="940" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-44" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U4ozedeX-4zujju5WsK9-48" value="вы сбегаете вместе" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="890" y="820" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
