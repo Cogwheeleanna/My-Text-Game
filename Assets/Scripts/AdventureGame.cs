@@ -29,20 +29,21 @@ public class AdventureGame : MonoBehaviour
     private void ManageState()
     {
         var nextStates = state.GetNextStates();
-        if (Input.GetKeyDown(KeyCode.A)) 
+
+        for (int index = 0; index < nextStates.Length; index++)
         {
-            state = nextStates[0];
+            if (Input.GetKeyDown(KeyCode.A + index))
+            {
+                state = nextStates[index];
+            }
         }
 
-       else if (Input.GetKeyDown(KeyCode.D)) 
+        if (Input.GetKeyDown(KeyCode.Q))
         {
-            state = nextStates[1];
+            var totalElements = nextStates.Length;
+            state = nextStates[totalElements - 1];
         }
 
-       else if (Input.GetKeyDown(KeyCode.W)) 
-        {
-            state = nextStates[2];
-        }
         textComponent.text = state.GetStateStory();
     }
 }
